@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520610648715",
+    "project_id": "bmcisk",
+    "storage_bucket": "bmcisk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520610648715:android:5a43e5e2daf6ea8521fa8e",
+        "android_client_info": {
+          "package_name": "com.bmc.isk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520610648715-4aj5qa3ud3uqoeem17bem7g2btuvpjsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sTAbQNVQSt4m9_TGO7cAB_MUmENcq08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520610648715-4aj5qa3ud3uqoeem17bem7g2btuvpjsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
